@@ -1,4 +1,4 @@
-<img width="1830" height="698" alt="bannerfinal" src="https://raw.githubusercontent.com/REDTOPS-Enterprise/CoffeeBrew/refs/heads/main/.github/banner.png?token=GHSAT0AAAAAADSDDRX7CNEPYDGMSD7GF2AC2MINQYQ"/>
+<img width="1830" height="698" alt="bannerfinal" src="https://github.com/REDTOPS-Enterprise/CoffeeBrew/blob/main/.github/banner.png"/>
 
 # CoffeeBrew
 “Caffeinated Conciseness. Industrial safety.”
